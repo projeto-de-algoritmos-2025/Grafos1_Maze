@@ -1,13 +1,13 @@
-# NomedoProjeto
+# Grafos1_Maze
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: Grafos<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 211031744  |  Júlio César Costa |
+| 211031403  |  Marcus Vinicius Cunha Dantas |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
