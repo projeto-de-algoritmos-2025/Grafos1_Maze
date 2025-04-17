@@ -1,6 +1,5 @@
 # Grafos1_Maze
 
-**Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
@@ -10,18 +9,27 @@
 | 211031403  |  Marcus Vinicius Cunha Dantas |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto tem como objetivo resolver questões do leetcode relacionadas a grafos, BFS e DFS com dificuldades médias e difíceis
+
+| Problema  | Nome                                   | Dificuldade |
+|-----------|----------------------------------------|-------------|
+| 2360      | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)           | Difícil     |
+| 1926      | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) | Médio       |
+| 133       | [Clone Graph](https://leetcode.com/problems/clone-graph/description/)                        | Médio       |
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+### [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+![](./img/longest_cycle.png)
+
+### [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/)
+
+![](./img/nearest_exit.png)
+
+### [Clone Graph](https://leetcode.com/problems/clone-graph/description/)
+
+![](./img/clone_graph.png)
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
