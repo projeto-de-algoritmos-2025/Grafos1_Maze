@@ -33,7 +33,7 @@ Este projeto tem como objetivo resolver questões do leetcode relacionadas a gra
 
 ### [Divide Nodes Into the Maximum Number of Groups]([https://leetcode.com/problems/clone-graph/description/](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/))
 
-![](./img/Divine_Nodes.png)
+![](./img/Divide_Nodes.png)
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
