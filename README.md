@@ -37,7 +37,8 @@ Este projeto tem como objetivo resolver questões do leetcode relacionadas a gra
 ![](./img/Divide_Nodes.png)
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+[Apresentação no youtube](https://youtu.be/-v8Zad5bvYI)
 
 
 
